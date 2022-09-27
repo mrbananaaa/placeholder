@@ -1,0 +1,821 @@
+[
+  {
+    "heroId": 1,
+    "name": "Miya",
+    "roles": ["Marksman"],
+    "specialities": ["Reap", "Damage"],
+    "releaseYear": 2016
+  },
+  {
+    "heroId": 2,
+    "name": "Balmond",
+    "roles": ["Fighter"],
+    "specialities": ["Damage", "Regen"],
+    "releaseYear": 2016
+  },
+  {
+    "heroId": 3,
+    "name": "Saber",
+    "roles": ["Assassin"],
+    "specialities": ["Charge", "Reap"],
+    "releaseYear": 2016
+  },
+  {
+    "heroId": 4,
+    "name": "Alice",
+    "roles": ["Mage", "Tank"],
+    "specialities": ["Charge", "Regen"],
+    "releaseYear": 2016
+  },
+  {
+    "heroId": 5,
+    "name": "Nana",
+    "roles": ["Mage", "Support"],
+    "specialities": ["Poke", "Burst"],
+    "releaseYear": 2016
+  },
+  {
+    "heroId": 6,
+    "name": "Tigreal",
+    "roles": ["Tank", "Support"],
+    "specialities": ["Crowd Control"],
+    "releaseYear": 2016
+  },
+  {
+    "heroId": 7,
+    "name": "Alucard",
+    "roles": ["Fighter", "Assassin"],
+    "specialities": ["Chase", "Damage"],
+    "releaseYear": 2016
+  },
+  {
+    "heroId": 8,
+    "name": "Karina",
+    "roles": ["Assassin"],
+    "specialities": ["Reap", "Magic Damage"],
+    "releaseYear": 2016
+  },
+  {
+    "heroId": 9,
+    "name": "Akai",
+    "roles": ["Tank", "Support"],
+    "specialities": ["Guard", "Crowd Control"],
+    "releaseYear": 2016
+  },
+  {
+    "heroId": 10,
+    "name": "Franco",
+    "roles": ["Tank", "Support"],
+    "specialities": ["Initiator", "Control"],
+    "releaseYear": 2016
+  },
+  {
+    "heroId": 11,
+    "name": "Bane",
+    "roles": ["Fighter", "Mage"],
+    "specialities": ["Push", "Burst"],
+    "releaseYear": 2016
+  },
+  {
+    "heroId": 12,
+    "name": "Bruno",
+    "roles": ["Marksman"],
+    "specialities": ["Push", "Burst"],
+    "releaseYear": 2016
+  },
+  {
+    "heroId": 13,
+    "name": "Clint",
+    "roles": ["Marksman"],
+    "specialities": ["Reap", "Burst"],
+    "releaseYear": 2016
+  },
+  {
+    "heroId": 14,
+    "name": "Rafaela",
+    "roles": ["Support"],
+    "specialities": ["Regen", "Guard"],
+    "releaseYear": 2016
+  },
+  {
+    "heroId": 15,
+    "name": "Eudora",
+    "roles": ["Mage"],
+    "specialities": ["Control", "Burst"],
+    "releaseYear": 2016
+  },
+  {
+    "heroId": 16,
+    "name": "Zilong",
+    "roles": ["Fighter", "Assassin"],
+    "specialities": ["Chase", "Damage"],
+    "releaseYear": 2016
+  },
+  {
+    "heroId": 17,
+    "name": "Fanny",
+    "roles": ["Assassin"],
+    "specialities": ["Chase", "Reap"],
+    "releaseYear": 2016
+  },
+  {
+    "heroId": 18,
+    "name": "Layla",
+    "roles": ["Marksman"],
+    "specialities": ["Reap", "Damage"],
+    "releaseYear": 2016
+  },
+  {
+    "heroId": 19,
+    "name": "Minotaur",
+    "roles": ["Tank", "Support"],
+    "specialities": ["Crowd Control"],
+    "releaseYear": 2016
+  },
+  {
+    "heroId": 20,
+    "name": "Lolita",
+    "roles": ["Support", "Tank"],
+    "specialities": ["Guard", "Crowd Control"],
+    "releaseYear": 2016
+  },
+  {
+    "heroId": 21,
+    "name": "Hayabusa",
+    "roles": ["Assassin"],
+    "specialities": ["Chase", "Burst"],
+    "releaseYear": 2016
+  },
+  {
+    "heroId": 22,
+    "name": "Freya",
+    "roles": ["Fighter"],
+    "specialities": ["Chase", "Damage"],
+    "releaseYear": 2016
+  },
+  {
+    "heroId": 23,
+    "name": "Gord",
+    "roles": ["Mage"],
+    "specialities": ["Poke", "Burst"],
+    "releaseYear": 2016
+  },
+  {
+    "heroId": 24,
+    "name": "Natalia",
+    "roles": ["Assassin"],
+    "specialities": ["Chase", "Reap"],
+    "releaseYear": 2016
+  },
+  {
+    "heroId": 25,
+    "name": "Kagura",
+    "roles": ["Mage"],
+    "specialities": ["Poke", "Reap"],
+    "releaseYear": 2016
+  },
+  {
+    "heroId": 26,
+    "name": "Chou",
+    "roles": ["Fighter"],
+    "specialities": ["Chase", "Control"],
+    "releaseYear": 2016
+  },
+  {
+    "heroId": 27,
+    "name": "Sun",
+    "roles": ["Fighter"],
+    "specialities": ["Push", "Damage"],
+    "releaseYear": 2016
+  },
+  {
+    "heroId": 28,
+    "name": "Alpha",
+    "roles": ["Fighter"],
+    "specialities": ["Chase", "Damage"],
+    "releaseYear": 2017
+  },
+  {
+    "heroId": 29,
+    "name": "Ruby",
+    "roles": ["Fighter", "Tank"],
+    "specialities": ["Crowd Control", "Regen"],
+    "releaseYear": 2017
+  },
+  {
+    "heroId": 30,
+    "name": "Yi Sun-Shin",
+    "roles": ["Assassin", "Marksman"],
+    "specialities": ["Reap", "Chase"],
+    "releaseYear": 2017
+  },
+  {
+    "heroId": 31,
+    "name": "Moskov",
+    "roles": ["Marksman"],
+    "specialities": ["Reap", "Chase"],
+    "releaseYear": 2017
+  },
+  {
+    "heroId": 32,
+    "name": "Johnson",
+    "roles": ["Tank"],
+    "specialities": ["Support", "Crowd Control"],
+    "releaseYear": 2017
+  },
+  {
+    "heroId": 33,
+    "name": "Cyclops",
+    "roles": ["Mage"],
+    "specialities": ["Poke", "Control"],
+    "releaseYear": 2017
+  },
+  {
+    "heroId": 34,
+    "name": "Estes",
+    "roles": ["Support"],
+    "specialities": ["Regen", "Guard"],
+    "releaseYear": 2017
+  },
+  {
+    "heroId": 35,
+    "name": "Hilda",
+    "roles": ["Fighter", "Tank"],
+    "specialities": ["Damage", "Regen"],
+    "releaseYear": 2017
+  },
+  {
+    "heroId": 36,
+    "name": "Aurora",
+    "roles": ["Mage"],
+    "specialities": ["Crowd Control", "Poke"],
+    "releaseYear": 2017
+  },
+  {
+    "heroId": 37,
+    "name": "Lapu-Lapu",
+    "roles": ["Fighter"],
+    "specialities": ["Chase", "Burst"],
+    "releaseYear": 2017
+  },
+  {
+    "heroId": 38,
+    "name": "Vexana",
+    "roles": ["Mage"],
+    "specialities": ["Poke", "Control"],
+    "releaseYear": 2017
+  },
+  {
+    "heroId": 39,
+    "name": "Roger",
+    "roles": ["Fighter", "Marksman"],
+    "specialities": ["Reap", "Burst"],
+    "releaseYear": 2017
+  },
+  {
+    "heroId": 40,
+    "name": "Karrie",
+    "roles": ["Marksman"],
+    "specialities": ["Reap", "Damage"],
+    "releaseYear": 2017
+  },
+  {
+    "heroId": 41,
+    "name": "Gatotkaca",
+    "roles": ["Tank", "Fighter"],
+    "specialities": ["Crowd Control", "Burst"],
+    "releaseYear": 2017
+  },
+  {
+    "heroId": 42,
+    "name": "Harley",
+    "roles": ["Mage", "Assassin"],
+    "specialities": ["Burst", "Poke"],
+    "releaseYear": 2017
+  },
+  {
+    "heroId": 43,
+    "name": "Iritel",
+    "roles": ["Marksman"],
+    "specialities": ["Reap", "Burst"],
+    "releaseYear": 2017
+  },
+  {
+    "heroId": 44,
+    "name": "Grock",
+    "roles": ["Tank"],
+    "specialities": ["Crowd Control", "Initiator"],
+    "releaseYear": 2017
+  },
+  {
+    "heroId": 45,
+    "name": "Argus",
+    "roles": ["Fighter"],
+    "specialities": ["Charge", "Burst"],
+    "releaseYear": 2017
+  },
+  {
+    "heroId": 46,
+    "name": "Odette",
+    "roles": ["Mage"],
+    "specialities": ["Burst", "Poke"],
+    "releaseYear": 2017
+  },
+  {
+    "heroId": 47,
+    "name": "Lancelot",
+    "roles": ["Assassin"],
+    "specialities": ["Chase", "Burst"],
+    "releaseYear": 2017
+  },
+  {
+    "heroId": 48,
+    "name": "Diggie",
+    "roles": ["Support"],
+    "specialities": ["Guard", "Poke"],
+    "releaseYear": 2017
+  },
+  {
+    "heroId": 49,
+    "name": "Hylos",
+    "roles": ["Tank"],
+    "specialities": ["Guard", "Initiator"],
+    "releaseYear": 2017
+  },
+  {
+    "heroId": 50,
+    "name": "Zhask",
+    "roles": ["Mage"],
+    "specialities": ["Chase", "Damage"],
+    "releaseYear": 2017
+  },
+  {
+    "heroId": 51,
+    "name": "Helcurt",
+    "roles": ["Assassin"],
+    "specialities": ["Push", "Burst"],
+    "releaseYear": 2017
+  },
+  {
+    "heroId": 52,
+    "name": "Pharsa",
+    "roles": ["Mage"],
+    "specialities": ["Burst", "Poke"],
+    "releaseYear": 2017
+  },
+  {
+    "heroId": 53,
+    "name": "Lesley",
+    "roles": ["Marksman", "Assassin"],
+    "specialities": ["Reap", "Burst"],
+    "releaseYear": 2018
+  },
+  {
+    "heroId": 54,
+    "name": "Jawhead",
+    "roles": ["Fighter"],
+    "specialities": ["Charge", "Burst"],
+    "releaseYear": 2018
+  },
+  {
+    "heroId": 55,
+    "name": "Angela",
+    "roles": ["Support"],
+    "specialities": ["Guard", "Support"],
+    "releaseYear": 2018
+  },
+  {
+    "heroId": 56,
+    "name": "Gussion",
+    "roles": ["Assassin"],
+    "specialities": ["Burst", "Magic Damage"],
+    "releaseYear": 2018
+  },
+  {
+    "heroId": 57,
+    "name": "Valir",
+    "roles": ["Mage"],
+    "specialities": ["Damage", "Guard"],
+    "releaseYear": 2018
+  },
+  {
+    "heroId": 58,
+    "name": "Martis",
+    "roles": ["Fighter"],
+    "specialities": ["Reap", "Charge"],
+    "releaseYear": 2018
+  },
+  {
+    "heroId": 59,
+    "name": "Uranus",
+    "roles": ["Tank"],
+    "specialities": ["Regen"],
+    "releaseYear": 2018
+  },
+  {
+    "heroId": 60,
+    "name": "Hanabi",
+    "roles": ["Marksman"],
+    "specialities": ["Reap", "Damage"],
+    "releaseYear": 2018
+  },
+  {
+    "heroId": 61,
+    "name": "Chang'e",
+    "roles": ["Mage"],
+    "specialities": ["Poke", "Burst"],
+    "releaseYear": 2018
+  },
+  {
+    "heroId": 62,
+    "name": "Kaja",
+    "roles": ["Fighter", "Support"],
+    "specialities": ["Control", "Charge"],
+    "releaseYear": 2018
+  },
+  {
+    "heroId": 63,
+    "name": "Selena",
+    "roles": ["Assassin", "Mage"],
+    "specialities": ["Initiator", "Reap"],
+    "releaseYear": 2018
+  },
+  {
+    "heroId": 64,
+    "name": "Aldous",
+    "roles": ["Fighter"],
+    "specialities": ["Burst", "Support"],
+    "releaseYear": 2018
+  },
+  {
+    "heroId": 65,
+    "name": "Claude",
+    "roles": ["Marksman"],
+    "specialities": ["Burst", "Chase"],
+    "releaseYear": 2018
+  },
+  {
+    "heroId": 66,
+    "name": "Vale",
+    "roles": ["Mage"],
+    "specialities": ["Burst", "Crowd Control"],
+    "releaseYear": 2018
+  },
+  {
+    "heroId": 67,
+    "name": "Leomord",
+    "roles": ["Fighter"],
+    "specialities": ["Chase", "Burst"],
+    "releaseYear": 2018
+  },
+  {
+    "heroId": 68,
+    "name": "Lunox",
+    "roles": ["Mage"],
+    "specialities": ["Burst", "Damage"],
+    "releaseYear": 2018
+  },
+  {
+    "heroId": 69,
+    "name": "Hanzo",
+    "roles": ["Assassin"],
+    "specialities": ["Poke", "Burst"],
+    "releaseYear": 2018
+  },
+  {
+    "heroId": 70,
+    "name": "Belerick",
+    "roles": ["Tank"],
+    "specialities": ["Crowd Control", "Regen"],
+    "releaseYear": 2018
+  },
+  {
+    "heroId": 71,
+    "name": "Kimmy",
+    "roles": ["Marksman", "Mage"],
+    "specialities": ["Damage", "Magic Damage"],
+    "releaseYear": 2018
+  },
+  {
+    "heroId": 72,
+    "name": "Thamuz",
+    "roles": ["Fighter"],
+    "specialities": ["Chase", "Damage"],
+    "releaseYear": 2018
+  },
+  {
+    "heroId": 73,
+    "name": "Harith",
+    "roles": ["Mage"],
+    "specialities": ["Chase", "Damage"],
+    "releaseYear": 2018
+  },
+  {
+    "heroId": 74,
+    "name": "Minisitthar",
+    "roles": ["Fighter"],
+    "specialities": ["Initiator", "Crowd Control"],
+    "releaseYear": 2018
+  },
+  {
+    "heroId": 75,
+    "name": "Kadita",
+    "roles": ["Mage", "Assassin"],
+    "specialities": ["Burst", "Charge"],
+    "releaseYear": 2018
+  },
+  {
+    "heroId": 76,
+    "name": "Faramis",
+    "roles": ["Support", "Mage"],
+    "specialities": ["Guard", "Charge"],
+    "releaseYear": 2019
+  },
+  {
+    "heroId": 77,
+    "name": "Badang",
+    "roles": ["Fighter"],
+    "specialities": ["Charge", "Burst"],
+    "releaseYear": 2019
+  },
+  {
+    "heroId": 78,
+    "name": "Kufra",
+    "roles": ["Tank", "Support"],
+    "specialities": ["Initiator", "Crowd Control"],
+    "releaseYear": 2019
+  },
+  {
+    "heroId": 79,
+    "name": "Granger",
+    "roles": ["Marksman"],
+    "specialities": ["Burst", "Reap"],
+    "releaseYear": 2019
+  },
+  {
+    "heroId": 80,
+    "name": "Guinevere",
+    "roles": ["Fighter"],
+    "specialities": ["Burst", "Magic Damage"],
+    "releaseYear": 2019
+  },
+  {
+    "heroId": 81,
+    "name": "Esmeralda",
+    "roles": ["Mage", "Tank"],
+    "specialities": ["Regen", "Mixed Damage"],
+    "releaseYear": 2019
+  },
+  {
+    "heroId": 82,
+    "name": "Terizla",
+    "roles": ["Fighter"],
+    "specialities": ["Burst", "Crowd Control"],
+    "releaseYear": 2019
+  },
+  {
+    "heroId": 83,
+    "name": "X.Borg",
+    "roles": ["Fighter"],
+    "specialities": ["Regen", "Burst"],
+    "releaseYear": 2019
+  },
+  {
+    "heroId": 84,
+    "name": "Ling",
+    "roles": ["Assassin"],
+    "specialities": ["Chase", "Burst"],
+    "releaseYear": 2019
+  },
+  {
+    "heroId": 86,
+    "name": "Lylia",
+    "roles": ["Mage"],
+    "specialities": ["Push", "Damage"],
+    "releaseYear": 2019
+  },
+  {
+    "heroId": 87,
+    "name": "Baxia",
+    "roles": ["Tank"],
+    "specialities": ["Support", "Damage"],
+    "releaseYear": 2019
+  },
+  {
+    "heroId": 88,
+    "name": "Masha",
+    "roles": ["Fighter"],
+    "specialities": ["Push", "Damage"],
+    "releaseYear": 2019
+  },
+  {
+    "heroId": 89,
+    "name": "Wanwan",
+    "roles": ["Marksman"],
+    "specialities": ["Reap", "Burst"],
+    "releaseYear": 2019
+  },
+  {
+    "heroId": 90,
+    "name": "Silvanna",
+    "roles": ["Fighter"],
+    "specialities": ["Initiator", "Magic Damage"],
+    "releaseYear": 2019
+  },
+  {
+    "heroId": 91,
+    "name": "Carmilla",
+    "roles": ["Support"],
+    "specialities": ["Crowd Control", "Damage"],
+    "releaseYear": 2020
+  },
+  {
+    "heroId": 92,
+    "name": "Cecilion",
+    "roles": ["Mage"],
+    "specialities": ["Poke", "Burst"],
+    "releaseYear": 2020
+  },
+  {
+    "heroId": 93,
+    "name": "Atlas",
+    "roles": ["Tank", "Support"],
+    "specialities": ["Crowd Control", "Initiator"],
+    "releaseYear": 2020
+  },
+  {
+    "heroId": 94,
+    "name": "Popol and Kupa",
+    "roles": ["Marksman"],
+    "specialities": ["Push", "Burst"],
+    "releaseYear": 2020
+  },
+  {
+    "heroId": 95,
+    "name": "Yu Zhong",
+    "roles": ["Fighter"],
+    "specialities": ["Regen", "Damage"],
+    "releaseYear": 2020
+  },
+  {
+    "heroId": 96,
+    "name": "Luo Yi",
+    "roles": ["Mage"],
+    "specialities": ["Support", "Crowd Control"],
+    "releaseYear": 2020
+  },
+  {
+    "heroId": 97,
+    "name": "Benedetta",
+    "roles": ["Assassin"],
+    "specialities": ["Chase", "Burst"],
+    "releaseYear": 2020
+  },
+  {
+    "heroId": 98,
+    "name": "Khaleed",
+    "roles": ["Fighter"],
+    "specialities": ["Damage", "Regen"],
+    "releaseYear": 2020
+  },
+  {
+    "heroId": 99,
+    "name": "Barats",
+    "roles": ["Tank", "Fighter"],
+    "specialities": ["Damage", "Crowd Control"],
+    "releaseYear": 2020
+  },
+  {
+    "heroId": 100,
+    "name": "Brody",
+    "roles": ["Marksman"],
+    "specialities": ["Burst", "Reap"],
+    "releaseYear": 2020
+  },
+  {
+    "heroId": 101,
+    "name": "Yve",
+    "roles": ["Mage"],
+    "specialities": ["Poke", "Burst"],
+    "releaseYear": 2021
+  },
+  {
+    "heroId": 102,
+    "name": "Mathilda",
+    "roles": ["Support", "Assassin"],
+    "specialities": ["Initiator", "Guard"],
+    "releaseYear": 2020
+  },
+  {
+    "heroId": 103,
+    "name": "Paquito",
+    "roles": ["Fighter"],
+    "specialities": ["Chase", "Damage"],
+    "releaseYear": 2021
+  },
+  {
+    "heroId": 104,
+    "name": "Gloo",
+    "roles": ["Tank"],
+    "specialities": ["Regen", "Control"],
+    "releaseYear": 2021
+  },
+  {
+    "heroId": 105,
+    "name": "Beatrix",
+    "roles": ["Marksman"],
+    "specialities": ["Reap", "Damage"],
+    "releaseYear": 2021
+  },
+  {
+    "heroId": 106,
+    "name": "Phoveus",
+    "roles": ["Fighter"],
+    "specialities": ["Chase", "Control"],
+    "releaseYear": 2021
+  },
+  {
+    "heroId": 107,
+    "name": "Natan",
+    "roles": ["Marksman"],
+    "specialities": ["Burst", "Magic Damage"],
+    "releaseYear": 2021
+  },
+  {
+    "heroId": 108,
+    "name": "Aulus",
+    "roles": ["Fighter"],
+    "specialities": ["Damage", "Crowd Control"],
+    "releaseYear": 2021
+  },
+  {
+    "heroId": 109,
+    "name": "Aamon",
+    "roles": ["Assassin"],
+    "specialities": ["Burst", "Magic Damage"],
+    "releaseYear": 2021
+  },
+  {
+    "heroId": 110,
+    "name": "Floryn",
+    "roles": ["Support"],
+    "specialities": ["Poke", "Guard"],
+    "releaseYear": 2021
+  },
+  {
+    "heroId": 111,
+    "name": "Valentina",
+    "roles": ["Mage"],
+    "specialities": ["Burst", "Reap"],
+    "releaseYear": 2021
+  },
+  {
+    "heroId": 112,
+    "name": "Edith",
+    "roles": ["Tank", "Marksman"],
+    "specialities": ["Control", "Burst"],
+    "releaseYear": 2021
+  },
+  {
+    "heroId": 113,
+    "name": "Yin",
+    "roles": ["Fighter"],
+    "specialities": ["Burst", "Control"],
+    "releaseYear": 2022
+  },
+  {
+    "heroId": 114,
+    "name": "Melissa",
+    "roles": ["Marksman"],
+    "specialities": ["Reap", "Damage"],
+    "releaseYear": 2022
+  },
+  {
+    "heroId": 115,
+    "name": "Xavier",
+    "roles": ["Mage"],
+    "specialities": ["Damage", "Guard"],
+    "releaseYear": 2022
+  },
+  {
+    "heroId": 116,
+    "name": "Julian",
+    "roles": ["Fighter", "Mage"],
+    "specialities": ["Chase", "Magic Damage"],
+    "releaseYear": 2022
+  },
+  {
+    "heroId": 117,
+    "name": "Fredrinn",
+    "roles": ["Tank", "Fighter"],
+    "specialities": ["Damage", "Chase"],
+    "releaseYear": 2022
+  },
+  {
+    "heroId": 118,
+    "name": "Joy",
+    "roles": ["Assassin"],
+    "specialities": ["Chase", "Damage"],
+    "releaseYear": 2022
+  }
+]
